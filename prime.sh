@@ -15,3 +15,5 @@ if [ $count -lt 2 ]
 then
    echo "number is prime"
 else
+   echo "number is not prime"
+fi
